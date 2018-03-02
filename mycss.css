@@ -1,9 +1,28 @@
 
 body
 {
+	heigth:100%;
 	background:#efefef;
 	   margin: 0 !important;
     padding: 0 !important;
+}
+
+.plotlydiagram
+{
+	
+	margin-top:1.7em;
+}
+#mapsss
+{
+	display:block;
+	text-align:center;
+	margin-top:1.7em;
+}
+iframe
+{
+
+	width:1400px;
+	height:600px;
 }
 #mainheader img
 {
@@ -96,7 +115,7 @@ article
 	
 	display:inline-block;
 	margin-right:8em;
-	margin-left:4em;
+	margin-left:1em;
 	vertical-align:top;
 
 }
